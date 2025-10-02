@@ -27,21 +27,21 @@ In my free time I contribute to the community, report vulnerabilities through re
         </tr>
       </thead>
       <tbody>
-        <tr>
-        <td><b>WordPress security researcher CVEs overview</b></td>
-        <td>An overview of the vulnerabilities I’ve reported and published through Wordfence Threat Intelligence, including CVE IDs, descriptions, and affected software.</td>
-        <td><a href="https://www.wordfence.com/threat-intel/vulnerabilities/researchers/asif-nawaz-minhas?page=2" target="_blank" rel="noopener noreferrer">Wordfence Researcher Page</a></td>
-        </tr>
-        <tr>
-          <td><b>CVE-2024-34955</b></td>
-          <td>Code-projects Budget Management 1.0 is vulnerable to SQL Injection via the delete parameter.</td>
-          <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2024-34955" target="_blank" rel="noopener noreferrer">NVD Entry</a></td>
-        </tr>
-        <tr>
-          <td><b>CVE-2024-34954</b></td>
-          <td>Code-projects Budget Management 1.0 is vulnerable to Cross Site Scripting (XSS) via the budget parameter.</td>
-          <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2024-34954" target="_blank" rel="noopener noreferrer">NVD Entry</a></td>
-        </tr>
+       <tr>
+  <td><b>WordPress security researcher CVEs overview</b></td>
+  <td>An overview of the vulnerabilities I’ve reported and published through Wordfence Threat Intelligence, including CVE IDs, descriptions, and affected software.</td>
+  <td><a href="https://www.wordfence.com/threat-intel/vulnerabilities/researchers/asif-nawaz-minhas?page=2" target="_blank" rel="noopener noreferrer">Wordfence Researcher Page</a></td>
+</tr>
+<tr>
+  <td><b>CVE-2024-34955</b></td>
+  <td>Code-projects Budget Management 1.0 is vulnerable to SQL Injection via the delete parameter.</td>
+  <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2024-34955" target="_blank" rel="noopener noreferrer">NVD Entry</a></td>
+</tr>
+<tr>
+  <td><b>CVE-2024-34954</b></td>
+  <td>Code-projects Budget Management 1.0 is vulnerable to Cross Site Scripting (XSS) via the budget parameter.</td>
+  <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2024-34954" target="_blank" rel="noopener noreferrer">NVD Entry</a></td>
+</tr>
       </tbody>
     </table>
     <br/>
