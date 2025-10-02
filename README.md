@@ -1,9 +1,17 @@
-## Hi, I am Asif 👋
+## Hey! 👋 My name is Asif. I am a passionate penetration tester exploring red-team techniques, learning offensive methods, pivoting and post-exploit workflows. 
+In my free time I contribute to the community, report vulnerabilities through responsible disclosure, and publish CVEs for confirmed issues.
 
 ### Glad to see you here! &nbsp;
 <a href="https://github.com/asifnawazminhas/asifnawazminhas" target="_blank">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=asifnawazminhas.asifnawazminhas" alt="visitors"/>
 </a>
+
+<a href="https://github.com/asifnawazminhas"><img align="left" src="https://img.shields.io/github/followers/asifnawazminhas?color=lightgray&label=GitHub" alt="Follow me on GitHub"/></a>
+
+<br /><br />
+
+<img src="https://github-readme-stats.vercel.app/api?username=asifnawazminhas&show_icons=true&theme=dark" width="380">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifnawazminhas&layout=compact&theme=dark" width="380">
 
 ---
 
