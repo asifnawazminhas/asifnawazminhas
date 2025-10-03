@@ -1,5 +1,8 @@
 ## Hey! 👋 My name is Asif. I am a passionate penetration tester exploring red-team techniques, learning offensive methods, pivoting and post-exploit workflows. 
 In my free time I contribute to the community, report vulnerabilities through responsible disclosure, and publish CVEs for confirmed issues.
+I’m also experimenting with how AI can be applied in the offensive security niche, exploring ways to combine AI with red-teaming and vulnerability research.
+
+
 
 ### Glad to see you here! &nbsp;
 <a href="https://github.com/asifnawazminhas/asifnawazminhas" target="_blank">
@@ -12,6 +15,28 @@ In my free time I contribute to the community, report vulnerabilities through re
 
 <img src="https://github-readme-stats.vercel.app/api?username=asifnawazminhas&show_icons=true&theme=dark" width="380">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifnawazminhas&layout=compact&theme=dark" width="380">
+
+![Asif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asifnawazminhas&theme=react-dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=asifnawazminhas&theme=dark)
+
+
+### Tech Stack & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=Burp-Suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-03A9F4?style=for-the-badge&logo=metasploit&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=gnome-terminal&logoColor=white)
 
 ### Projects & Contributions:
 
