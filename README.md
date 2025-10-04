@@ -15,9 +15,9 @@ I’m also experimenting with how AI can be applied in the offensive security ni
   <img src="https://img.shields.io/badge/Ethical%20-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Ethical hacker" />
   <img src="https://img.shields.io/badge/Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000000" alt="Hacker" />
   <img src="https://img.shields.io/badge/Penetration%20Tester-00599C?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Penetration Tester" />
+  <img src="https://img.shields.io/badge/Red%20Teamer-B22222?style=for-the-badge&logo=target&logoColor=white" alt="Red Teamer" />
   <img src="https://img.shields.io/badge/Security-30363D?style=for-the-badge" alt="Security" />
   <img src="https://img.shields.io/badge/Researcher-000000?style=for-the-badge" alt="Researcher" />
-  <img src="https://img.shields.io/badge/Red%20Teamer-B22222?style=for-the-badge&logo=target&logoColor=white" alt="Red Teamer" />
   <img src="https://img.shields.io/badge/Linux-30363D?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
   <img src="https://img.shields.io/badge/Linux-30363D?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
