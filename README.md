@@ -102,6 +102,15 @@ I’m also experimenting with how AI can be applied in the offensive security ni
   <td>Code-projects Budget Management 1.0 is vulnerable to Cross Site Scripting (XSS) via the budget parameter.</td>
   <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2024-34954" target="_blank" rel="noopener noreferrer">NVD Entry</a></td>
 </tr>
+        <tr>
+        <td><b>CVE-2025-54384</b></td>
+        <td>Stored XSS vector in Markdown description fields.</td>
+        <td>
+          <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-54384" target="_blank" rel="noopener noreferrer">NVD Entry</a>
+          <br>
+          <a href="https://github.com/ckan/ckan/security/advisories/GHSA-2r4h-8jxv-w2j8" target="_blank" rel="noopener noreferrer">GitHub Advisory</a>
+        </td>
+      </tr>
       </tbody>
     </table>
     <br/>
