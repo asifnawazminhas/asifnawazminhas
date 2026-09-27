@@ -1,196 +1,266 @@
-## Hey! 👋 My name is Asif. I am a passionate penetration tester exploring red-team techniques, learning offensive methods, pivoting and post-exploit workflows. 
-In my free time I contribute to the community, report vulnerabilities through responsible disclosure, and publish CVEs for confirmed issues.
-I’m also experimenting with how AI can be applied in the offensive security niche, exploring ways to combine AI with red-teaming and vulnerability research.
+# Asif Nawaz Minhas
+
+### Offensive Security Specialist
+
+**Penetration Testing · Red Teaming · Vulnerability Research · Enterprise Security**
+
+I am an Offensive Security Specialist focused on practical penetration testing, red teaming, vulnerability research and enterprise security.
+
+My work spans web application security, Windows and Active Directory environments, infrastructure security and adversary simulation, with a focus on identifying high impact weaknesses and translating technical findings into meaningful security improvements.
+
+I also contribute to responsible vulnerability disclosure, security research and community knowledge sharing, while exploring the growing role of AI in offensive security.
+
+<p>
+  <a href="https://about.asifnawazminhas.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/About-Professional%20Profile-00C853?style=for-the-badge" alt="Professional Profile">
+  </a>
+  <a href="https://notes.asifnawazminhas.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Security-Notes-0078D4?style=for-the-badge" alt="Security Notes">
+  </a>
+  <a href="https://oneliners.asifnawazminhas.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Offensive-One%20Liners-B22222?style=for-the-badge" alt="Offensive One Liners">
+  </a>
+  <a href="https://ai.asifnawazminhas.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AI-Security-7C4DFF?style=for-the-badge" alt="AI for Security Professionals">
+  </a>
+  <a href="https://studio.asifnawazminhas.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Security-Studio-FF6F00?style=for-the-badge" alt="Security Studio">
+  </a>
+</p>
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=00FF00&width=435&lines=Penetration+tester+%7C+Ethical+hacker;Red+teaming+%7C+Zero+day+seeker;Responsible+disclosure+%7C+Always+learning+;AI+%26+Cybersecurity+%7C+Building+Cyber+Peace+;Secure+the+internet+........)](https://git.io/typing-svg)
+## Featured Security Projects
+
+### Security Notes
+
+**Practical cybersecurity, penetration testing, red teaming and vulnerability research notes.**
+
+A growing knowledge base covering offensive security techniques, tools, methodologies and technical references.
+
+**Website:**  
+https://notes.asifnawazminhas.com/
+
+**Repository:**  
+https://github.com/asifnawazminhas/security-notes
 
 ---
+
+### Offensive One Liners
+
+**A practical collection of offensive security commands and one liners.**
+
+A searchable reference covering penetration testing, Active Directory, web security, reconnaissance, red teaming, Windows, Linux and other offensive security workflows.
+
+**Website:**  
+https://oneliners.asifnawazminhas.com/
+
+**Repository:**  
+https://github.com/asifnawazminhas/awesome-offensive-oneliners
+
+---
+
+### AI for Security Professionals
+
+**36 tools · 13 security native · 6 categories**
+
+A focused directory of AI security tools and general purpose AI that can support authorised security research, penetration testing, autonomous penetration testing, red teaming, AppSec, LLM security, MCP security, vulnerability research, analysis and reporting.
+
+**Website:**  
+https://ai.asifnawazminhas.com/
+
+---
+
+### Security Studio
+
+An interactive cybersecurity project focused on learning, experimentation and practical security knowledge.
+
+**Website:**  
+https://studio.asifnawazminhas.com/
+
+---
+
+### wwwtree-redteam
+
+A red team focused project from my offensive security research and tooling work.
+
+**Repository:**  
+https://github.com/asifnawazminhas/wwwtree-redteam
+
+---
+
+### Professional Profile
+
+A dedicated overview of my experience, certifications, research, vulnerability research and offensive security work.
+
+**Website:**  
+https://about.asifnawazminhas.com/
+
+---
+
+## Areas of Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Offensive%20Security-111111?style=for-the-badge" alt="Offensive Security">
+  <img src="https://img.shields.io/badge/Penetration%20Testing-00599C?style=for-the-badge" alt="Penetration Testing">
+  <img src="https://img.shields.io/badge/Red%20Teaming-B22222?style=for-the-badge" alt="Red Teaming">
+  <img src="https://img.shields.io/badge/Vulnerability%20Research-30363D?style=for-the-badge" alt="Vulnerability Research">
+  <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge" alt="Active Directory">
+  <img src="https://img.shields.io/badge/Web%20Security-FF6633?style=for-the-badge" alt="Web Security">
+  <img src="https://img.shields.io/badge/AI%20Security-7C4DFF?style=for-the-badge" alt="AI Security">
+  <img src="https://img.shields.io/badge/Purple%20Teaming-800080?style=for-the-badge" alt="Purple Teaming">
+</p>
+
+My main areas of focus and research include:
+
+- Penetration testing
+- Red teaming and adversary simulation
+- Web application security
+- Windows security
+- Active Directory security
+- Infrastructure security
+- Vulnerability research
+- Responsible disclosure
+- AV and EDR evasion research
+- Post exploitation and pivoting
+- Purple teaming
+- AI assisted security testing
+- LLM security
+- MCP security
+- Automated reconnaissance
+- Security tooling and automation
+
+---
+
+## Vulnerability Research
+
+I actively contribute to responsible vulnerability disclosure and vulnerability research.
+
+My research includes hundreds of reported security issues and multiple published CVEs across different products and platforms.
+
+### WordPress Security Research
+
+An overview of vulnerabilities I have reported and published through Wordfence Threat Intelligence, including CVE identifiers, vulnerability descriptions and affected software:
+
+**Wordfence Researcher Profile:**  
+https://www.wordfence.com/threat-intel/vulnerabilities/researchers/asif-nawaz-minhas?page=2
+
+### Selected CVEs
+
+| CVE | Description | Reference |
+| :--- | :--- | :--- |
+| **CVE-2024-34955** | SQL Injection vulnerability in Code Projects Budget Management 1.0 via the `delete` parameter. | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2024-34955) |
+| **CVE-2024-34954** | Cross Site Scripting vulnerability in Code Projects Budget Management 1.0 via the `budget` parameter. | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2024-34954) |
+| **CVE-2025-54384** | Stored XSS vector in Markdown description fields. | [NVD](https://nvd.nist.gov/vuln/detail/CVE-2025-54384) · [GitHub Advisory](https://github.com/ckan/ckan/security/advisories/GHSA-2r4h-8jxv-w2j8) |
+
+---
+
+## Certifications
+
+| OSEP | OSCP | OSWP | CRTO | CISSP | OSWA | CISM |
+| :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+| <a href="https://credentials.offsec.com/0efe3aa1-6299-4800-a706-6c7ef79c5f6c#acc.JH1g5xBR" target="_blank" rel="noopener noreferrer"><img src="./img/OSEP.png" alt="OSEP" width="110"></a> | <a href="https://www.credential.net/0f2a3465-2fa6-4402-b526-6f372b35bd93?trk=public_profile_see-credential#acc.Bnhq091G" target="_blank" rel="noopener noreferrer"><img src="./img/OSCP.png" alt="OSCP" width="110"></a> | <a href="https://credentials.offsec.com/b3df742c-e02b-4465-8cee-ab14c2b554f9#acc.vTKa08Sr" target="_blank" rel="noopener noreferrer"><img src="./img/OSWP.png" alt="OSWP" width="110"></a> | <a href="https://eu.badgr.com/public/assertions/p2xxJx0DQU2ffXblBNslLg" target="_blank" rel="noopener noreferrer"><img src="./img/CRTO.png" alt="CRTO" width="110"></a> | <a href="https://www.credly.com/badges/15539bb2-b697-4cef-8c7a-699f2700255d?trk=public_profile_see-credential" target="_blank" rel="noopener noreferrer"><img src="./img/CISSP.png" alt="CISSP" width="110"></a> | <a href="https://www.credential.net/d354e55c-d333-4347-9ddf-5e9d44cca4c4?trk=public_profile_see-credential#acc.YxfV3PiU" target="_blank" rel="noopener noreferrer"><img src="./img/OSWA.png" alt="OSWA" width="110"></a> | <a href="https://www.credly.com/badges/b75ea7b9-55ff-4f43-a526-9077388491b6/public_url?trk=public_profile_see-credential" target="_blank" rel="noopener noreferrer"><img src="./img/CISM.png" alt="CISM" width="110"></a> |
+
+---
+
+## Research & Community
+
+### Purple Teaming
+
+My academic research focuses on purple teaming, cybersecurity exercises, collaboration and knowledge transfer between offensive and defensive security teams.
+
+The research explores how organisations can structure, implement and sustain effective purple teaming programmes and how collaborative security exercises can improve knowledge transfer and cyber resilience.
+
+### OWASP GenAI Red Teaming Guide
+
+Contributor to the community driven **OWASP GenAI Red Teaming Guide**, covering approaches, risks and methodologies for red teaming generative AI systems.
+
+https://genai.owasp.org/resource/genai-red-teaming-guide/
+
+### Responsible Disclosure
+
+I regularly conduct responsible vulnerability research and report identified security issues through coordinated and responsible disclosure processes.
+
+My research interests include:
+
+- Web applications
+- Authentication and authorisation
+- Enterprise environments
+- Infrastructure
+- Active Directory
+- Security misconfigurations
+- AI enabled applications
+- LLM security
+- Emerging attack surfaces
+
+---
+
+## Education
+
+**MSc Information Security**  
+Royal Holloway, University of London
+
+**Bachelor ICT: Information & Communication Technology**  
+Windesheim University of Applied Sciences
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-  <!-- Row 1 (Identity & OS) -->
-  <img src="https://komarev.com/ghpvc/?username=asifnawazminhas&style=for-the-badge&color=00ff00" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Ethical%20-000000?style=for-the-badge&logo=shield&logoColor=white" alt="Ethical hacker" />
-  <img src="https://img.shields.io/badge/Hacker-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000000" alt="Hacker" />
-  <img src="https://img.shields.io/badge/Penetration%20Tester-00599C?style=for-the-badge&logo=gnometerminal&logoColor=white" alt="Penetration Tester" />
-  <img src="https://img.shields.io/badge/Red%20Teamer-B22222?style=for-the-badge&logo=target&logoColor=white" alt="Red Teamer" />
-  <img src="https://img.shields.io/badge/Security-30363D?style=for-the-badge" alt="Security" />
-  <img src="https://img.shields.io/badge/Researcher-000000?style=for-the-badge" alt="Researcher" />
-  <img src="https://img.shields.io/badge/Linux-30363D?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Linux-30363D?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+<img src="https://github-readme-stats.vercel.app/api?username=asifnawazminhas&show_icons=true&theme=dark" alt="Asif Nawaz Minhas GitHub Stats">
 
-  <!-- Row 2 (Paired Security & Scripting) -->
-  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/Web%20Security-30363D?style=for-the-badge&logo=shield&logoColor=white" alt="Web Security" />
+<br><br>
 
-  <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" alt="AI" />
-  <img src="https://img.shields.io/badge/Cybersecurity-434343?style=for-the-badge" alt="Cybersecurity" />
-
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Scripting-AAAAAA?style=for-the-badge" alt="Scripting" />
-
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Scripting-8A8A8A?style=for-the-badge" alt="Scripting" />
-
-
-  <!-- Row 3 (Extra Skills & Tools in Pairs) -->
-  <img src="https://img.shields.io/badge/Metasploit-03A9F4?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Framework-444444?style=for-the-badge&logo=framework&logoColor=white" alt="Framework" />
-
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Version%20Control-FF7F2A?style=for-the-badge&logo=versioncontrol&logoColor=white" alt="Version Control" />
-
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Community-6C6C6C?style=for-the-badge&logo=community&logoColor=white" alt="Community" />
-
-  <img src="https://img.shields.io/badge/Terminal-241F31?style=for-the-badge&logo=gnome-terminal&logoColor=white" alt="Terminal" />
-  <img src="https://img.shields.io/badge/CLI-666666?style=for-the-badge&logo=command-line&logoColor=white" alt="CLI" />
-
-  <br/>
-
-  <!-- Row 4 (Mission Badge) -->
-  <img src="https://img.shields.io/badge/Securing-The%20Internet-brightgreen?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Mission: Securing the Internet" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifnawazminhas&theme=react-dark" alt="Asif Nawaz Minhas GitHub Activity">
 
 </div>
 
 ---
 
-<!-- GitHub Stats Section -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=asifnawazminhas&show_icons=true&theme=dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asifnawazminhas&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=asifnawazminhas&layout=compact&theme=dark" alt="Top Languages" />
-</div>
+## Connect
 
----
-
-
-![Asif's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=asifnawazminhas&theme=react-dark)
-
----
-
-### Projects & Contributions:
-
-<details>
-  <summary><b> CVEs</b></summary>
-  <br/>
-    <table>
-      <thead align="center">
-        <tr border: none;>
-          <td><b>CVE</b></td>
-          <td><b>Short Description</b></td>
-          <td><b>References</b></td>
-        </tr>
-      </thead>
-      <tbody>
-       <tr>
-  <td><b>WordPress security researcher CVEs overview</b></td>
-  <td>An overview of the vulnerabilities I’ve reported and published through Wordfence Threat Intelligence, including CVE IDs, descriptions, and affected software.</td>
-  <td><a href="https://www.wordfence.com/threat-intel/vulnerabilities/researchers/asif-nawaz-minhas?page=2" target="_blank" rel="noopener noreferrer">Wordfence Researcher Page</a></td>
-</tr>
-<tr>
-  <td><b>CVE-2024-34955</b></td>
-  <td>Code-projects Budget Management 1.0 is vulnerable to SQL Injection via the delete parameter.</td>
-  <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2024-34955" target="_blank" rel="noopener noreferrer">NVD Entry</a></td>
-</tr>
-<tr>
-  <td><b>CVE-2024-34954</b></td>
-  <td>Code-projects Budget Management 1.0 is vulnerable to Cross Site Scripting (XSS) via the budget parameter.</td>
-  <td><a href="https://nvd.nist.gov/vuln/detail/CVE-2024-34954" target="_blank" rel="noopener noreferrer">NVD Entry</a></td>
-</tr>
-        <tr>
-        <td><b>CVE-2025-54384</b></td>
-        <td>Stored XSS vector in Markdown description fields.</td>
-        <td>
-          <a href="https://nvd.nist.gov/vuln/detail/CVE-2025-54384" target="_blank" rel="noopener noreferrer">NVD Entry</a>
-          <br>
-          <a href="https://github.com/ckan/ckan/security/advisories/GHSA-2r4h-8jxv-w2j8" target="_blank" rel="noopener noreferrer">GitHub Advisory</a>
-        </td>
-      </tr>
-      </tbody>
-    </table>
-    <br/>
-</details>
-
-<details>
-  <summary><b> Guides, etc</b></summary>
-  <br/>
-    <table>
-      <thead align="center">
-        <tr border: none;>
-          <td><b>Project</b></td>
-          <td><b>Short Description</b></td>
-          <td><b>Stars</b></td>
-          <td><b>Forks</b></td>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td><a href="https://genai.owasp.org/resource/genai-red-teaming-guide/" target="_blank" rel="noopener noreferrer"><b>OWASP GenAI Red Teaming Guide</b></a></td>
-          <td>A community-driven guide by OWASP on red teaming for generative AI systems, outlining risks, testing approaches, and mitigation strategies.</td>
-          <td>N/A</td>
-          <td>N/A</td>
-        </tr>
-      </tbody>
-    </table>
-</details>
-
-
----
-
-## About me
-
-I’m an Offensive Security Engineer / Penetration Tester with a background from Royal Holloway, University of London. Born in the Netherlands 🇳🇱 and native in Dutch, I spend the majority of my time learning and practising hands-on offensive techniques, ethical hacking, responsible disclosure and publishing technical writeups on my blog.  
-
-My work focuses on practical penetration testing, red-team skills: post-exploit pivoting, Active Directory escalation, AV/EDR evasion and real-world engagements. 
-
-I balance professional consulting with continuous learning (CTFs, HTB labs, and research) and producing readable, writeups for the community.
-
-### Quick facts
-- **Education:** MSc Information Security (Royal Holloway, University of London); Bachelor in ICT: Information & Communication Technology (Windesheim University of Applied Sciences)  
-- **Location / Languages:** Netherlands: born and raised; native Dutch 🇳🇱, fluent English 🇬🇧; conversational in Urdu/Hindi 🇵🇰 🇮🇳 and some Arabic 🇸🇦
-- **Specialties:** Web hacking, red teaming, pivoting, AV/EDR evasion, escalation paths, exploit development, responsible disclosure  
-- **Interests:** Purple teaming, adversary emulation, automated recon pipelines, threat-informed defense
-
-You can reach me here 👇
-
-<div>
-  <a href="https://www.asifnawazminhas.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-21759B?style=for-the-badge&logo=ghost&logoColor=white" alt="Blog"/>
+<p>
+  <a href="https://about.asifnawazminhas.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/About-00C853?style=for-the-badge" alt="About">
   </a>
-  <a href="https://www.asifnawazminhas.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Website-38B2AC?style=for-the-badge&logo=webdriverio&logoColor=white" alt="Website"/>
+
+  <a href="https://www.linkedin.com/in/asifminhasnl/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.linkedin.com/in/asifminhasnl/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+  <a href="https://notes.asifnawazminhas.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Security%20Notes-0078D4?style=for-the-badge" alt="Security Notes">
   </a>
-  <a href="https://app.hackthebox.com/profile/154138" target="_blank">
-    <img src="https://img.shields.io/badge/hackthebox-a3e54a?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HackTheBox"/>
+
+  <a href="https://oneliners.asifnawazminhas.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Offensive%20One%20Liners-B22222?style=for-the-badge" alt="Offensive One Liners">
   </a>
+
+  <a href="https://ai.asifnawazminhas.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/AI%20Security-7C4DFF?style=for-the-badge" alt="AI Security">
+  </a>
+
+  <a href="https://studio.asifnawazminhas.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Security%20Studio-FF6F00?style=for-the-badge" alt="Security Studio">
+  </a>
+
+  <a href="https://app.hackthebox.com/profile/154138" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=000000" alt="Hack The Box">
+  </a>
+
   <a href="https://github.com/asifnawazminhas" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/github/followers/asifnawazminhas?style=for-the-badge&logo=github&color=blue" alt="GitHub Followers"/>
+    <img src="https://img.shields.io/github/followers/asifnawazminhas?style=for-the-badge&logo=github" alt="GitHub Followers">
   </a>
-</div>
+</p>
 
 ---
 
 <div align="center">
 
+### Build · Break · Research · Share
 
-## <img src="https://media.giphy.com/media/YMwJF1OQAlbnf6HFjd/giphy.gif" width="50" height="45" alt="trophy"> Trophies
-
-| OSEP | OSCP | CRTO | CISSP | OSWA | CISM |
-| :--: | :--: | :--: | :---: | :--: | :--: |
-| <a href="https://credentials.offsec.com/0efe3aa1-6299-4800-a706-6c7ef79c5f6c#acc.JH1g5xBR" target="_blank" rel="noopener noreferrer"><img src="./img/OSEP.png" alt="OSEP" width="120"></a> | <a href="https://www.credential.net/0f2a3465-2fa6-4402-b526-6f372b35bd93?trk=public_profile_see-credential#acc.Bnhq091G" target="_blank" rel="noopener noreferrer"><img src="./img/OSCP.png" alt="OSCP" width="120"></a> | <a href="https://eu.badgr.com/public/assertions/p2xxJx0DQU2ffXblBNslLg" target="_blank" rel="noopener noreferrer"><img src="./img/CRTO.png" alt="CRTO" width="120"></a> | <a href="https://www.credly.com/badges/15539bb2-b697-4cef-8c7a-699f2700255d?trk=public_profile_see-credential" target="_blank" rel="noopener noreferrer"><img src="./img/CISSP.png" alt="CISSP" width="120"></a> | <a href="https://www.credential.net/d354e55c-d333-4347-9ddf-5e9d44cca4c4?trk=public_profile_see-credential#acc.YxfV3PiU" target="_blank" rel="noopener noreferrer"><img src="./img/OSWA.png" alt="OSWA" width="120"></a> | <a href="https://www.credly.com/badges/b75ea7b9-55ff-4f43-a526-9077388491b6/public_url?trk=public_profile_see-credential" target="_blank" rel="noopener noreferrer"><img src="./img/CISM.png" alt="CISM" width="120"></a> |
-
----
-
-Feel free to give your suggestions 
+**Offensive Security · Red Teaming · Vulnerability Research**
 
 </div>
-
-
