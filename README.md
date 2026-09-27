@@ -209,13 +209,23 @@ Windesheim University of Applied Sciences
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=asifnawazminhas&show_icons=true&theme=dark" alt="Asif Nawaz Minhas GitHub Stats">
+<a href="https://github.com/asifnawazminhas">
+  <img src="https://img.shields.io/github/followers/asifnawazminhas?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers">
+</a>
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=asifnawazminhas&theme=react-dark" alt="Asif Nawaz Minhas GitHub Activity">
+<a href="https://github.com/asifnawazminhas?tab=repositories">
+  <img src="https://img.shields.io/badge/View-My%20Repositories-181717?style=for-the-badge&logo=github" alt="View Repositories">
+</a>
 
 </div>
+
+### Current Projects
+
+- [Security Notes](https://github.com/asifnawazminhas/security-notes)
+- [Offensive One Liners](https://github.com/asifnawazminhas/awesome-offensive-oneliners)
+- [wwwtree-redteam](https://github.com/asifnawazminhas/wwwtree-redteam)
+
+> Building and maintaining practical offensive security resources, tooling and research.
 
 ---
 
